@@ -6,6 +6,7 @@
 * BPI = Blueprint Interface (Merged into SML)
 * SPM = Satisfactory Pak Modding (General term for pak modding)
 * SBL = Satisfactory Blueprint Library (Merged into SML)
+* SID =[ Satisfactory Item Dictionary](https://ficsit.app/mod/CkUs5KM9ShwVfr)
 * SMI = Satisfactory Mod Injector (discontinued)
 * SMLauncher = Satisfactory Mod Launcher (still in development)
 * SBS = Satisfactory Bootstrapper (still in development)
