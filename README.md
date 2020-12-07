@@ -5,6 +5,7 @@
 * SMM = Satisfactory Mod Manager (SMLauncher rework label)
 * SMB = [Satisfactory Mod Bootstrapper](https://github.com/satisfactorymodding/SatisfactoryModBootstrapper)
 * SAV = Satisfactory Acronym Vault
+* SCIM = [Satisfactory Calculator Interactive Map](https://satisfactory-calculator.com/en/interactive-map)
 
 Outdated Acronyms:
 * SPL = Satisfactory Pak Loader (Merged into SML)
