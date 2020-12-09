@@ -1,10 +1,9 @@
 # SatisfactoryAcronymVault
 * SML = [Satisfactory Mod Loader](https://github.com/satisfactorymodding/SatisfactoryModLoader)
 * SMR = [Satisfactory Mod Repo](https://ficsit.app)
-* SMLauncher = [Satisfactory Mod Launcher](https://github.com/satisfactorymodding/SatisfactoryModLauncher)
-* SMM = Satisfactory Mod Manager (SMLauncher rework label)
+* SMM = [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager)
 * SMB = [Satisfactory Mod Bootstrapper](https://github.com/satisfactorymodding/SatisfactoryModBootstrapper)
-* SAV = Satisfactory Acronym Vault
+* SAV = [Satisfactory Acronym Vault](https://github.com/satisfactorymodding/SatisfactoryAcronymVault)
 
 Outdated Acronyms:
 * SPL = Satisfactory Pak Loader (Merged into SML)
